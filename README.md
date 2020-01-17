@@ -6,7 +6,11 @@ For Project Milestone 01, schedule a site visit with your service learning custo
 
 Push to this repository by Friday, January 17th with:
 
-1. The date you and your customer agree to the visit. The date you visit does not have to be before Friday, just an agreed upon date by Friday. 
-2. A list of 5 questions you plan to ask your customer during this visit. 
+1. Friday January 17th @ 4 PM
+2. 1. Do you currently have a user interface for this? If yes, do you like the way it's stored? Why or why not.
+   2. Who is your main audience for the proposed update?
+   3. What are 3 main expectations that we need to achieve?
+   4. What are some external pieces of information that you think we should know?
+   5. What are some obstacles that you are facing with what you have right now?
 3. The name(s) of the person(s) you will be meeting.
-4. The location of the visit. 
+4. Appalachian Center @ Stephenson Hall 
