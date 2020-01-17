@@ -12,5 +12,5 @@ Push to this repository by Friday, January 17th with:
    3. What are 3 main expectations that we need to achieve?
    4. What are some external pieces of information that you think we should know?
    5. What are some obstacles that you are facing with what you have right now?
-3. The name(s) of the person(s) you will be meeting.
+3. Chris Green
 4. Appalachian Center @ Stephenson Hall 
